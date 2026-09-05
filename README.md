@@ -21,3 +21,7 @@ The key file should contain your `sk-or-v1-...` key on one line.
 The OpenRouter usage API only shows *billed* spend — free-tier usage is
 invisible. This gives you the actual account balance and total credits
 so you know where you stand.
+
+## Links
+
+Part of the [vhsgreed](https://vhsgreed.win) toolset: data, code, and methods in the open.
